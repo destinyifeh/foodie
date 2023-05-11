@@ -1,1 +1,1 @@
-## Foodie app -> Built with react native cli
+## Foodie app -> Built with react native CLI
